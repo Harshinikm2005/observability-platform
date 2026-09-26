@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime data
+data/
+*.db
+
+# Generated evidence
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
